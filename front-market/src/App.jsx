@@ -17,10 +17,10 @@ import StoreSettingsPage from './pages/Store/StoreSettingsPage';
 
 
 // مسارات الأدمن (Super Admin)
-import AdminStoresPage from './pages/admin/AdminStoresPage';
-import AdminDriversPage from './pages/admin/AdminDriversPage';
-import AdminRegionsPage from './pages/admin/AdminRegionsPage';
-import AdminCategoriesPage from './pages/admin/AdminCategoriesPage';
+import AdminStoresPage from './pages/Admin/AdminStoresPage';
+import AdminDriversPage from './pages/Admin/AdminDriversPage';
+import AdminRegionsPage from './pages/Admin/AdminRegionsPage';
+import AdminCategoriesPage from './pages/Admin/AdminCategoriesPage';
 import DriverOrdersPage from "./pages/Driver/DriverOrdersPage";
 
 function App() {
