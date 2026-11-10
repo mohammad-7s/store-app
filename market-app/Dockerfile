@@ -1,5 +1,5 @@
 # استخدام صورة PHP الرسمية مع Apache
-FROM php:8.3-apache
+FROM php:8.4-apache
 
 # تثبيت الحزم والأدوات المطلوبة لنظام Linux وتمديدات PHP
 RUN apt-get update && apt-get install -y \
